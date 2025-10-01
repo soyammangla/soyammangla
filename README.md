@@ -3,7 +3,6 @@
 - 🚀 Full Stack Developer, Freelancer, and Tech Enthusiast with a passion for clean code
 - 🌱 Currently mastering **Data Structures & Algorithms**
 - 🔭 Working on personal projects to strengthen my portfolio
-- 💪 When not coding, you'll find me powerlifting at the gym
 - 🎮 Casual gamer who believes in the power of taking breaks
 
 
